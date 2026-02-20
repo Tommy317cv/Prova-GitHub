@@ -12,7 +12,7 @@ public class Program2 {
         a = scanner.nextInt();
 
         System.out.println("Valore"+a);
-
+        System.out.println("Errore");
         scanner.close();
     }
 
